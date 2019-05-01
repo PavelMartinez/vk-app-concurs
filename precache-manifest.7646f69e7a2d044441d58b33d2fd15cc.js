@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/vk-app-concurs/static/js/runtime~main.4ab03380.js"
   },
   {
-    "revision": "0e7ccd6f24296ef5d045",
-    "url": "/vk-app-concurs/static/js/main.0e7ccd6f.chunk.js"
+    "revision": "892f6ecad707ccb9cca2",
+    "url": "/vk-app-concurs/static/js/main.892f6eca.chunk.js"
   },
   {
     "revision": "989c8692077b33056246",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/vk-app-concurs/static/css/2.872bf7fe.chunk.css"
   },
   {
-    "revision": "ca193ce5d4d5cadd8f88062058bb5de7",
+    "revision": "27a0b275e149d49013887a1f7ca0b888",
     "url": "/vk-app-concurs/index.html"
   }
 ];
