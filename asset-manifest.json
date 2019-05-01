@@ -1,13 +1,13 @@
 {
-  "main.js": "/vk-app-concurs/static/js/main.bf63a2fc.chunk.js",
-  "main.js.map": "/vk-app-concurs/static/js/main.bf63a2fc.chunk.js.map",
+  "main.js": "/vk-app-concurs/static/js/main.56cbd0f3.chunk.js",
+  "main.js.map": "/vk-app-concurs/static/js/main.56cbd0f3.chunk.js.map",
   "runtime~main.js": "/vk-app-concurs/static/js/runtime~main.4ab03380.js",
   "runtime~main.js.map": "/vk-app-concurs/static/js/runtime~main.4ab03380.js.map",
   "static/css/2.872bf7fe.chunk.css": "/vk-app-concurs/static/css/2.872bf7fe.chunk.css",
-  "static/js/2.512e6190.chunk.js": "/vk-app-concurs/static/js/2.512e6190.chunk.js",
-  "static/js/2.512e6190.chunk.js.map": "/vk-app-concurs/static/js/2.512e6190.chunk.js.map",
+  "static/js/2.a12f9ebb.chunk.js": "/vk-app-concurs/static/js/2.a12f9ebb.chunk.js",
+  "static/js/2.a12f9ebb.chunk.js.map": "/vk-app-concurs/static/js/2.a12f9ebb.chunk.js.map",
   "index.html": "/vk-app-concurs/index.html",
-  "precache-manifest.b6cab1d269ebcb9622e9ca3ef4a292b5.js": "/vk-app-concurs/precache-manifest.b6cab1d269ebcb9622e9ca3ef4a292b5.js",
+  "precache-manifest.f55ec8dab12db3a1f009d44d3a443837.js": "/vk-app-concurs/precache-manifest.f55ec8dab12db3a1f009d44d3a443837.js",
   "service-worker.js": "/vk-app-concurs/service-worker.js",
   "static/css/2.872bf7fe.chunk.css.map": "/vk-app-concurs/static/css/2.872bf7fe.chunk.css.map"
 }
